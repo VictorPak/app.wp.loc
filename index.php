@@ -25,6 +25,14 @@
                 <p class="block__text"><?= CFS()->get('team_description')?></p>
             </div>
             <div class="team__inner">
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                    <div class="swiper-slide">Slide 1</div>
+                    </div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>    
+
                 <?php 
                     $loop = CFS()->get('team_card');
                     foreach ($loop as $row) {
