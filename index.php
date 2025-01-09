@@ -16,7 +16,7 @@
                 ?>
                 </div> 
             </div> 
-        </div> <!-- dd    dsddfsdsd-->
+        </div> <!-- dd --> 
     </div>
     <div class="team" id="team">
         <div class="container">
