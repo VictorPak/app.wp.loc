@@ -14,9 +14,9 @@
                 <?php 
                     } 
                 ?>
-                </div>
-            </div>
-        </div>
+                </div> 
+            </div> 
+        </div> <!-- ddd-->
     </div>
     <div class="team" id="team">
         <div class="container">
