@@ -12,7 +12,7 @@
                     <div class="about__text"><?= $row['card_text']?></div>
                 </div>
                 <?php 
-                    }
+                    } 
                 ?>
                 </div>
             </div>
